@@ -1,2 +1,0 @@
-from .user_handlers import register_user_handlers
-from .admin_handlers import register_admin_handlers, notify_admin_group
